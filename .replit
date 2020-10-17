@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Weeks1/Simple_Message.py"
+run = "python Basics/Multiline_Message.py"
